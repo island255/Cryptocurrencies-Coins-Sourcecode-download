@@ -1,0 +1,1 @@
+This floder contains codes of coins crawled from CoinMarketCap.com on 28,March 2018
